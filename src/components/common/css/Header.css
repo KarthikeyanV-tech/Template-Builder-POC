@@ -1,0 +1,14 @@
+.logout-btn {
+   margin-bottom: 10px;
+}
+
+.add-template-container {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+}
+
+.template-selection-container {
+    display: flex;
+    align-items: center;
+}   

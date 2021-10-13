@@ -1,0 +1,13 @@
+.login-container {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-control-container {
+    width: 400px;
+    height: 200px;
+    border: solid grey;
+    border-radius: 5px;
+}
